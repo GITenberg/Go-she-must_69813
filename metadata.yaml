@@ -1,0 +1,29 @@
+_repo: Go-she-must_69813
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garnett, David
+    alias: Burke, Leda
+    birthdate: 1892
+    deathdate: 1981
+    gutenberg_agent_id: '3473'
+    url: http://www.gutenberg.org/2009/agents/3473
+    wikipedia: https://en.wikipedia.org/wiki/David_Garnett
+description: ''
+gutenberg_issued: '2023-01-16'
+identifiers:
+  gutenberg: '69813'
+language: en
+pgterms:marc905: 20221015080536garnett
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Steve Mattern, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: 'United States: Alfred A Knopf,1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Go she must!
+url: http://www.gutenberg.org/ebooks/69813
